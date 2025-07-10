@@ -75,5 +75,11 @@ Apps & Integrations → Add Apps
 
 1. When you click **Connect**, Miro will generate a **Redirect URI** (OAuth callback):
 
+Example: 
 https://integration.miro.com/api/external-auth-oauth2.callback
+
+Copy the URL and update in the Jira-Card setting in Attlassian. 
+
+THen reutnr to miro and  click **Connect**, 
+
 
