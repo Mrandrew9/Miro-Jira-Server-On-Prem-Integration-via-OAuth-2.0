@@ -80,6 +80,6 @@ https://integration.miro.com/api/external-auth-oauth2.callback
 
 Copy the URL and update in the Jira-Card setting in Attlassian. 
 
-THen reutnr to miro and  click **Connect**, 
+The return to miro and  click **Connect**, 
 
 
